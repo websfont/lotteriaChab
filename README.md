@@ -1,0 +1,19 @@
+# lotteriaChab
+롯데리아 촵땡겨체(lotteriaChab)
+
+<pre>
+  @font-face {
+    font-family: "lotteriaChab";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/lotteriaChab/lotteriaChab.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/lotteriaChab/lotteriaChab.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/lotteriaChab/lotteriaChab.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/lotteriaChab/lotteriaChab.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/lotteriaChab/lotteriaChab.ttf") format("truetype");
+    font-display: swap;
+} 
+.lotteriaChab {
+    font-family: "lotteriaChab";
+}
+</pre>
